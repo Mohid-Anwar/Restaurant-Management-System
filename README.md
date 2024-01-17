@@ -1,7 +1,7 @@
 # Restaurant-Management-System
 This Repository Contains a Restaurant Management for a beginner level Developer
 <br>
-<h1>This is a Collaborative ork Between</h1>
+<h1>This is a Collaborative Effort Between</h1>
 <ol>
     <li>Abdullah Mehdi</li>
     <li>Mansor Rana</li>
